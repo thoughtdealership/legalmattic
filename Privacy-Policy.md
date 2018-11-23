@@ -28,6 +28,7 @@ We only collect information about you if we have a reason to do so–for example
 It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
 *   **Basic Account Information:** We ask for basic information from you in order to set up your account. We store your GitHub username. This is the only personal information that we collect about you through the operation of our services.
+*   **OAuth Tokens:** We use an OAuth token to interact with GitHub on your behalf. We use the OAuth token only after you have taken an explicit action that requires the token, such as visiting [abc.thoughtdealership.com](https://abc.thoughtdealership.com) or submitting "approve" as a Pull Request comment. The OAuth token will automatically be deleted if it is not used for 30 days.
 *   **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with our engineers about a support question, or post a question about your site in our public forums.
 
 #### _Information We Collect Automatically_
