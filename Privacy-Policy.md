@@ -2,7 +2,7 @@ Your privacy is critically important to us. At Thought Dealership, we have a few
 
 *   We store your GitHub username and your email address. This is the only personal information that we collect about you through the operation of our services.
 *   We store personal information for only as long as you use our services.
-*   We never share your email address with third parties. Email communication is disabled by default.
+*   We never share your email address with third parties.
 *   We aim for full transparency on how we gather, use, and share your personal information.
 
 Below is our Privacy Policy, which incorporates and clarifies these principles.
@@ -18,7 +18,7 @@ Throughout this Privacy Policy we’ll refer to our website, mobile applications
 
 ### Creative Commons Sharealike License
 
-[Automattic](https://automattic.com/) has decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [Github](https://github.com/Automattic/legalmattic). You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. Also, if you do use the policy we’d appreciate a credit and link to Automattic somewhere on your site.
+We use a derivative of the Automattic privacy policy. [Automattic](https://automattic.com/) has decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [Github](https://github.com/Automattic/legalmattic). You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. Also, if you do use the policy we’d appreciate a credit and link to Automattic somewhere on your site.
 
 ### Information We Collect
 
