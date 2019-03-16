@@ -1,7 +1,8 @@
 Your privacy is critically important to us. At Thought Dealership, we have a few fundamental principles:
 
-*   We store your GitHub username. This is the only personal information that we collect about you through the operation of our services.
-*   We store personal information for only as long as we have a reason to keep it.
+*   We store your GitHub username and your email address. This is the only personal information that we collect about you through the operation of our services.
+*   We store personal information for only as long as you use our services.
+*   We never share your email address with third parties. Email communication is disabled by default.
 *   We aim for full transparency on how we gather, use, and share your personal information.
 
 Below is our Privacy Policy, which incorporates and clarifies these principles.
@@ -27,7 +28,8 @@ We only collect information about you if we have a reason to do so–for example
 
 It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-*   **Basic Account Information:** We ask for basic information from you in order to set up your account. We store your GitHub username. This is the only personal information that we collect about you through the operation of our services.
+*   **Basic Account Information:** We ask for basic information from you in order to set up your account. We store your GitHub username and your email address. This is the only personal information that we collect about you through the operation of our services.
+*   **Email Address:** We use your email address to send you the notifications that you have enabled on [abc.thoughtdealership.com](https://abc.thoughtdealership.com). All notifications are disabled by default. You must opt-in to receive notifications. We will not send you promotional or marketing emails.
 *   **OAuth Tokens:** We use an OAuth token to interact with GitHub on your behalf. We use the OAuth token only after you have taken an explicit action that requires the token, such as visiting [abc.thoughtdealership.com](https://abc.thoughtdealership.com) or submitting "approve" as a Pull Request comment. The OAuth token will automatically be deleted if it is not used for 30 days.
 *   **Communications With Us (Hi There!):** You may also provide us information when you respond to surveys, communicate with our engineers about a support question, or post a question about your site in our public forums.
 
